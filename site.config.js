@@ -7,12 +7,12 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: 'Sajith Pai's Public Notes',
+  domain: 'sajithpai.com',
+  author: 'Sajith Pai',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: 'A Collection Of Thoughts And Ideas Maintained By Sajith Pai',
   socialImageTitle: 'Transitive Bullshit',
   socialImageSubtitle: 'Hello World! 👋',
 
