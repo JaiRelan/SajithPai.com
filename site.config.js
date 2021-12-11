@@ -7,7 +7,7 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Sajith Pai's Public Notes',
+  name: 'The Public Notes of Sajith Pai',
   domain: 'sajithpai.com',
   author: 'Sajith Pai',
 
